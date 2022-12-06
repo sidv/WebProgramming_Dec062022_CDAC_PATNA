@@ -1,0 +1,9 @@
+Topics:
+Frontend:
+HTML
+CSS(Bootstrap)
+Javascript(Jquery)
+(React,React-Redux)
+
+Backend:
+Nodejs(Express)
